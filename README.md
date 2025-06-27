@@ -133,8 +133,8 @@ I'm a **versatile Quality Assurance Engineer and Developer** with a strong focus
 
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->### 📝 [🚌 Why Every CCNA Student Should Learn DHCP from Ghana&#39;s Trotro Masters &lpar;You Won&#39;t Believe How Similar They Are!&rpar;](https://dev.to/emmanuelarhu/why-every-ccna-student-should-learn-dhcp-from-ghanas-trotro-masters-you-wont-believe-how-26m6)
+> *Published on Jun 27, 2025*<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
