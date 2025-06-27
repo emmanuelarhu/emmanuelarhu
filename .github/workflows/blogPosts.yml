@@ -5,6 +5,8 @@ on:
     - cron: '0 */12 * * *'
   workflow_dispatch:
     # Allows manual triggering
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
