@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://dev.to/emmanuelarhu/"
+          feed_list: "https://dev.to/feed/emmanuelarhu"
           max_post_count: 5
           template: "- [$title]($url) - *$date*"
           date_format: "mmm dd, yyyy"
