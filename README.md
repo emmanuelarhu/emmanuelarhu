@@ -123,10 +123,24 @@ I'm a **versatile Quality Assurance Engineer and Developer** with a strong focus
 
 ---
 
-## 📝 Latest Blog Posts
+## 📚 Latest From My Tech Blog
 
-<!-- BLOG-POST-LIST:START -->### 📝 [🚌 Why Every CCNA Student Should Learn DHCP from Ghana&#39;s Trotro Masters &lpar;You Won&#39;t Believe How Similar They Are!&rpar;](https://dev.to/emmanuelarhu/why-every-ccna-student-should-learn-dhcp-from-ghanas-trotro-masters-you-wont-believe-how-26m6)
-> *Published on Jun 27, 2025*<!-- BLOG-POST-LIST:END -->
+<div align="center">
+
+![Blog](https://img.shields.io/badge/Tech_Blog-Live-brightgreen?style=for-the-badge&logo=dev.to)
+![Ghana](https://img.shields.io/badge/Made_in-Ghana_🇬🇭-red?style=for-the-badge)
+![CCNA](https://img.shields.io/badge/Focus-CCNA_|_Networking-blue?style=for-the-badge)
+
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+📝 [**Read All Posts on Dev.to**](https://dev.to/emmanuelarhu) | 💬 [**Let's Connect**](https://dev.to/emmanuelarhu)
+
+</div>
 
 ---
 
