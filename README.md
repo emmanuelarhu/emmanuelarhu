@@ -106,9 +106,8 @@ I'm a **versatile Quality Assurance Engineer and Developer** with a strong focus
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmanuelarhu&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=emmanuelarhu&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -191,6 +190,5 @@ I'm always interested in collaborating on exciting projects, discussing quality 
 
 ## 👁️ Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/emmanuelarhu/count.svg)
-
+![Profile views](https://komarev.com/ghpvc/?username=emmanuelarhu&label=Profile%20views&color=0e75b6&style=flat)
 </div>
