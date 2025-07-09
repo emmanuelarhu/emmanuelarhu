@@ -98,16 +98,16 @@ I'm a **versatile Quality Assurance Engineer and Developer** with a strong focus
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelarhu&theme=radical" alt="GitHub Streak Stats"/>
 </div>
-
+<br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelarhu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelarhu&theme=react-dark&bg_color=0d1117&hide_border=true&line=f85d7f&point=f85d7f&area=true&area_color=f85d7f" width="100%"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=emmanuelarhu&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emmanuelarhu&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=2" alt="GitHub Trophies"/>
 </div>
 
 ---
