@@ -20,7 +20,7 @@
 ```yaml
 name: Emmanuel Arhu
 location: Ghana 🇬🇭
-current_role: Software Engineer
+current_role: Senior Software Engineer in Test
 specializations: 
   - Quality Assurance Engineering
   - Software Development
@@ -36,7 +36,7 @@ passionate_about:
   - Education & knowledge sharing
 ```
 
-I'm a **versatile Quality Assurance Engineer and Developer** with a strong focus on building and testing high-quality digital products. I bridge the gap between testing and development to deliver faster, more efficient software solutions.
+I'm a **versatile Software Engineer in Test and Developer** with a strong focus on building and testing high-quality digital products. I bridge the gap between testing and development to deliver faster, more efficient software solutions.
 
 ### 🎯 What I Do
 
@@ -147,7 +147,7 @@ I'm a **versatile Quality Assurance Engineer and Developer** with a strong focus
 
 ```typescript
 const emmanuel = {
-  experience: "6+ years in System Administration & Cybersecurity",
+  experience: "5+ years in Software Engineer in Test",
   expertise: [
     "Quality Assurance Engineering",
     "Test Automation (Playwright, Selenium)",
